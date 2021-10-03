@@ -1,4 +1,4 @@
-# Visualizing-Data-with-Leaflet
+# Visualizing Data with Leaflet
 # Visualization Link: https://mauricejenkins-00.github.io/mauricejenkins-00-Visualizing-Data-with-Leaflet/
 
 ## Background
